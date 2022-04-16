@@ -1,0 +1,11 @@
+img:hover {
+  cursor: pointer;
+  opacity: 0.9;
+}
+i:hover {
+  cursor: pointer;
+  color:red;
+}
+.fas{
+  color:red;
+}
