@@ -1,11 +1,6 @@
 # Community-List
 以社群名單來練習使用 local storage 
-<<<<<<< HEAD
-測試用網頁：https://singingw.github.io/Community-List/
-=======
-<br>測試用網頁：https://singingw.github.io/Community-List/
 
->>>>>>> 6c37be19cbf928d7380a81d351084853a82212ec
 ## 特徵
 - 使用 axios 來發送請求
 - 由 https://lighthouse-user-api.herokuapp.com/api/v1/users 獲得使用者名單
